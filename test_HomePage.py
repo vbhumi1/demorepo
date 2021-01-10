@@ -12,7 +12,7 @@ class TestHomePage(BaseClass):
 
     def test_formSubmission(self,getData):
         log = self.getLogger()
-		
+		print("jira-IST")
 		print("adding in second file for push and pull")
 		
 		print("branch in all module")
