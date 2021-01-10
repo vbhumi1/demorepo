@@ -10,6 +10,11 @@ from utilities.BaseClass import BaseClass
 
 class TestHomePage(BaseClass):
 
+	print("jira-IST")
+	print("Asian time")
+	print("America")
+	
+	
     def test_formSubmission(self,getData):
         log = self.getLogger()
 		

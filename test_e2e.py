@@ -15,6 +15,7 @@ class TestOne(BaseClass):
 
     def test_e2e(self):
         log = self.getLogger()
+		print("two file chnaged")
 		
 		print("May be new thing")
 		print("May be new thing")
