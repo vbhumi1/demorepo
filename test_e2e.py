@@ -10,7 +10,9 @@ from pageObjects.CheckoutPage import CheckOutPage
 from pageObjects.HomePage import HomePage
 from utilities.BaseClass import BaseClass
 
-
+print("abcdfellfj")
+print("abcdfellfj")
+print("abcdfellfj")
 class TestOne(BaseClass):
 
     def test_e2e(self):
